@@ -2,6 +2,6 @@
 
 ## Live link
 
-https://shrayswarup.com/
+https://zak.shrayswarup.com/
 
 ## Getting Started
